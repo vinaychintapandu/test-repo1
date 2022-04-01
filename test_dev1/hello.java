@@ -1,7 +1,7 @@
-class hello()
+class hello() #dev1
 {
-	public void main()
+	public void main() #dev1
 	{
-		system.println(:"hello dev1")
+		system.println("hello world dev1")
 	}
 }
